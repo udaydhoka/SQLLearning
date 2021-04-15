@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="(localdb)\.:CSGICORP\kuruda01">
+          <Created>2020-06-16T06:50:46.1248415+05:30</Created>
+          <Type>SQL</Type>
+          <Server>(localdb)\.</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DDL_DML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL_DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="helpermod8.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>helpermod8.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod1-11.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod1-11.sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod12-14(joins).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod12-14(joins).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod15-16(null_val).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod15-16(null_val).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod17(unions).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod17(unions).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod18-21(sp's).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod18-21(sp's).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod22-24(string_func).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod22-24(string_func).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod25-27(datetime_func).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod25-27(datetime_func).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod28(cast_convert_func).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod28(cast_convert_func).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod29(math_func).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod29(math_func).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod30-33(UDF).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod30-33(UDF).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod34(temp_tables).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod34(temp_tables).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod35-38(indexes).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod35-38(indexes).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod39-42(views).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod39-42(views).sql</FullPath>
+        </FileNode>
+        <FileNode Name="mod43(triggers).sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(localdb)\.:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(localdb)\.</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>mod43(triggers).sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
